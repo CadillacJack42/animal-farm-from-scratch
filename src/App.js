@@ -15,7 +15,6 @@ function App() {
       <Main animalsArr={animals} />
       <Footer email={userEmail} />
     </>
-   
   );
 }
 

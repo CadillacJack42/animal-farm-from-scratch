@@ -1,6 +1,6 @@
 import React from 'react';
 import './Animal.css';
-import Header from './Header';
+
 
 export default function Animal(props) {
   return (

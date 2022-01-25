@@ -1,0 +1,8 @@
+.head {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    padding-top: 15px;
+    color: blue;
+}
